@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<conio.h>
-main()
+ int main()
 {
    system("color 0d");
     int year,month,day;
